@@ -22,13 +22,35 @@ Founder e responsável técnico da [DIRECT TI](https://directti.dev.br), onde de
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Tecnologias | Link |
-| --- | --- | --- | --- |
-| DIRECT TI Site | Site institucional da DIRECT TI, com foco em modernização de sistemas, desenvolvimento sob medida, dados, integrações e IA. | Next.js, React, TypeScript, Tailwind CSS, Vercel | [Ver repositório](https://github.com/tiaorj/directti-site) |
-| DirectOS | Plataforma SaaS para gestão de ordens de serviço, clientes, serviços, status, prioridades, indicadores e processos operacionais. | PHP, SQL Server, PDO SQLSRV, Bootstrap, JavaScript, jQuery, HTML, CSS | [Ver repositório](https://github.com/tiaorj/directos-saas) |
-| Legado360 | Solução voltada à auditoria, documentação e planejamento de modernização de sistemas legados. | React, Next.js, TypeScript | [Ver repositório](https://github.com/tiaorj/legado360) |
-| Meu Álbum 26 | Aplicação para controle de coleções de figurinhas, repetidas e faltantes, com autenticação, busca, filtros e compartilhamento. | Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel | [Ver repositório](https://github.com/tiaorj/meu-album-26) |
-| Controle Financeiro | Sistema web de controle financeiro pessoal com autenticação, lançamentos, categorias, carteiras e períodos financeiros. | Python, Flask, SQL Server, HTML, CSS, JavaScript, Bootstrap | [Ver repositório](https://github.com/tiaorj/finance-control-flask) |
+### [DIRECT TI Site](https://github.com/tiaorj/directti-site)
+
+Site institucional da DIRECT TI, com foco em modernização de sistemas, desenvolvimento sob medida, dados, integrações e IA.
+
+**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS e Vercel.
+
+### [DirectOS](https://github.com/tiaorj/directos-saas)
+
+Plataforma SaaS para gestão de ordens de serviço, clientes, serviços, status, prioridades, indicadores e processos operacionais.
+
+**Tecnologias:** PHP, SQL Server, PDO SQLSRV, Bootstrap, JavaScript, jQuery, HTML e CSS.
+
+### [Legado360](https://github.com/tiaorj/legado360)
+
+Solução voltada à auditoria, documentação e planejamento de modernização de sistemas legados.
+
+**Tecnologias:** React, Next.js e TypeScript.
+
+### [Meu Álbum 26](https://github.com/tiaorj/meu-album-26)
+
+Aplicação para controle de coleções de figurinhas, repetidas e faltantes, com autenticação, busca, filtros e compartilhamento.
+
+**Tecnologias:** Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS e Vercel.
+
+### [Controle Financeiro](https://github.com/tiaorj/finance-control-flask)
+
+Sistema web de controle financeiro pessoal com autenticação, lançamentos, categorias, carteiras e períodos financeiros.
+
+**Tecnologias:** Python, Flask, SQL Server, HTML, CSS, JavaScript e Bootstrap.
 
 ## Tecnologias
 
