@@ -1,6 +1,6 @@
 # Sebastião Oliveira
 
-Senior Software Engineer | Backend Engineer | System Modernization | Data Engineering | AI-Assisted Development
+Senior Software Engineer | Backend | Modernização de Sistemas | Dados | IA aplicada ao desenvolvimento
 
 > Modernizando sistemas, construindo soluções e transformando experiência em software de qualidade.
 
